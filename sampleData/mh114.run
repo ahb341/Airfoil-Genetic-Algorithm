@@ -1,0 +1,13 @@
+LOAD .\sampleData\mh114.dat
+PANE
+OPER
+V
+150000.000000
+ITER 100
+P
+.\sampleData\mh114.txt
+
+ASEQ -5 15 0.25
+P
+
+QUIT

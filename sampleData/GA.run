@@ -1,0 +1,13 @@
+LOAD .\sampleData\GA.dat
+PANE
+OPER
+V
+200000.000000
+ITER 100
+P
+.\sampleData\GA.txt
+
+ASEQ -5 15 0.25
+P
+
+QUIT
